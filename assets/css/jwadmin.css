@@ -1,0 +1,9 @@
+.col-6 {
+    display: inline-block;
+    width: 49%;
+    vertical-align: top;
+}
+
+.hilang {
+    display: none;
+}
